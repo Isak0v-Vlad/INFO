@@ -3,7 +3,7 @@ YEAR : 2022.
 
 Hello my name is Vlad. I'm 14 years old.
 I can brag having good experience in coding on Python.
-Now I'm learning Rust and how to invest into cryptocurrency. 
+Now I'm learning Rust and how to invest money into cryptocurrency. 
 
 INSTAGRAM : (isakov08_vlad).
 FACEBOOK : (Vlad Isakov).
